@@ -5,3 +5,4 @@
 
 ## Uso do comando Git Restore
 * comando git push
+* comando git pull
